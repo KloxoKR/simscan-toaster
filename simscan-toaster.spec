@@ -1,7 +1,7 @@
 %define	name simscan
 %define	pversion 1.4.0
 %define 	bversion 1.4
-%define	rpmrelease 11.kng%{?dist}
+%define	rpmrelease 11.kkr%{?dist}
 
 %define		release %{bversion}.%{rpmrelease}
 BuildRequires:	automake, autoconf
